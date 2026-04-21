@@ -40,13 +40,6 @@
      Light : soft blue-white rect, black text
      ============================================================ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20About%20Me&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
 
 ```python
 class SatvikChandel:
@@ -78,14 +71,6 @@ me.say_hi()
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20Tech%20Stack&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
-
 <div align="center"><br/>
 
 **Languages**
@@ -116,14 +101,6 @@ me.say_hi()
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20GitHub%20Stats&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
-
 <div align="center"><br/>
 
 <picture>
@@ -141,7 +118,7 @@ me.say_hi()
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyfox03&hide_border=true&background=000000&stroke=f97316&ring=f97316&fire=ffffff&currStreakLabel=f97316&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -153,59 +130,15 @@ me.say_hi()
 
 </div>
 
-<br/>
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Trophies&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20Trophies&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Trophies&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
 
-<div align="center"><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</picture>
 
-</div>
 
-<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Contribution%20Graph&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20Contribution%20Graph&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Contribution%20Graph&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
 
-<div align="center"><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=000000&color=f97316&line=f97316&point=ffffff&area=true&area_color=1a0800&hide_border=true" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=f0f4ff&color=1d4ed8&line=1d4ed8&point=000000&area=true&area_color=dbeafe&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=000000&color=f97316&line=f97316&point=ffffff&area=true&area_color=1a0800&hide_border=true" width="100%" alt="activity" />
-</picture>
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20Featured%20Projects&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
 
 <br/>
 
@@ -218,13 +151,7 @@ me.say_hi()
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Experience&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20Experience&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Experience&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
+
 
 <br/>
 
@@ -241,13 +168,6 @@ iCube Systems — Software Associate Intern                Mar 2023 – Jun 2023
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Certifications%20%26%20Achievements&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0f4ff,100:dbeafe&height=50&text=%20%20Certifications%20%26%20Achievements&fontSize=22&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=50&text=%20%20Certifications%20%26%20Achievements&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
 
 <br/>
 

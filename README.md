@@ -11,8 +11,9 @@
   <source media="(prefers-color-scheme: dark)"
           srcset="https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" />
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" alt="Satvik Chandel" width="100%" />
+          srcset="https://capsule-render.vercel.app/api?type=blur&height=350&color=1d4ed8&text=Satvik%20Chandel&fontColor=000000&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60"
+       alt="Satvik Chandel" width="100%" />
 </picture>
 <!-- ── TYPING ANIMATION ── -->
 <picture>

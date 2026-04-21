@@ -14,6 +14,48 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sleepyfox03&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 </div>
+<!-- ============================================================
+     DARK MODE  — deep navy + white + blue palette
+     LIGHT MODE — white + pure black + ink palette
+     GitHub auto-switches via prefers-color-scheme on <picture>
+     ============================================================ -->
+
+<div align="center">
+
+<!-- ── HEADER BANNER ── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a4a7a,100:2563eb&height=210&section=header&text=Satvik%20Chandel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,50:d4d4d4,100:a3a3a3&height=210&section=header&text=Satvik%20Chandel&fontSize=62&fontColor=0a0a0a&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a4a7a,100:2563eb&height=210&section=header&text=Satvik%20Chandel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" width="100%" />
+</picture>
+
+<!-- ── TYPING ANIMATION ── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Robotics+%26+Drone+Pilot+%F0%9F%9A%81;Curriculum+Designer+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=0a0a0a&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Robotics+%26+Drone+Pilot+%F0%9F%9A%81;Curriculum+Designer+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Robotics+%26+Drone+Pilot+%F0%9F%9A%81;Curriculum+Designer+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</picture>
+
+<br/><br/>
+
+<!-- ── SOCIAL BADGES ── -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvikchandel)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satvikchandel3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sleepyfox03)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://komarev.com/ghpvc/?username=sleepyfox03&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://komarev.com/ghpvc/?username=sleepyfox03&style=for-the-badge&color=1a1a1a&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=sleepyfox03&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="profile views" />
+</picture>
+
+</div>
 
 ---
 
@@ -49,7 +91,8 @@ me.say_hi()
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -57,13 +100,15 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Data & Tools
+**Data & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -78,12 +123,65 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sleepyfox03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyfox03&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=c9d1d9" />
+<!-- Stats card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api?username=sleepyfox03&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&icon_color=3b82f6&text_color=bfdbfe&count_private=true" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api?username=sleepyfox03&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0a0a0a&icon_color=1a1a1a&text_color=1a1a1a&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sleepyfox03&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&icon_color=3b82f6&text_color=bfdbfe&count_private=true" alt="stats" />
+</picture>
+<!-- Streak stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=sleepyfox03&hide_border=true&background=0d1b2a&stroke=1d4ed8&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=bfdbfe&currStreakNum=ffffff&sideNums=93c5fd&dates=bfdbfe" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=sleepyfox03&hide_border=true&background=ffffff&stroke=1a1a1a&ring=0a0a0a&fire=333333&currStreakLabel=0a0a0a&sideLabels=1a1a1a&currStreakNum=0a0a0a&sideNums=1a1a1a&dates=555555" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyfox03&hide_border=true&background=0d1b2a&stroke=1d4ed8&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=bfdbfe&currStreakNum=ffffff&sideNums=93c5fd&dates=bfdbfe" alt="streak" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyfox03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" />
+<!-- Top languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyfox03&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&text_color=bfdbfe&langs_count=8" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyfox03&layout=compact&hide_border=true&bg_color=ffffff&title_color=0a0a0a&text_color=1a1a1a&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyfox03&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&text_color=bfdbfe&langs_count=8" alt="languages" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=0d1b2a&color=60a5fa&line=3b82f6&point=93c5fd&area=true&area_color=1d4ed8&hide_border=true" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=ffffff&color=0a0a0a&line=1a1a1a&point=333333&area=true&area_color=e5e5e5&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=0d1b2a&color=60a5fa&line=3b82f6&point=93c5fd&area=true&area_color=1d4ed8&hide_border=true" alt="activity graph" width="100%" />
+</picture>
 
 </div>
 
@@ -95,30 +193,10 @@ me.say_hi()
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌦️ **[AccuNimbus](https://github.com/sleepyfox03)** | Weather prediction site with **>99% accuracy** over 200k+ cities | Django · OpenWeather API |
+| 🌦️ **[AccuNimbus](https://github.com/sleepyfox03)** | Weather prediction with **>99% accuracy** over 200k+ cities | Django · OpenWeather API |
 | 🎬 **[Animania](https://github.com/sleepyfox03)** | Video streaming platform with **2–5× faster** load speeds | Java · Hibernate · Jersey · MySQL |
-| 🐧 **[Peng-Wing's Zoo](https://github.com/sleepyfox03)** | Interactive zoo website with Vue.js SPA & REST APIs | Vue.js · PHP · Yii2 |
+| 🐧 **[Peng-Wing's Zoo](https://github.com/sleepyfox03)** | Interactive zoo SPA with REST APIs | Vue.js · PHP · Yii2 |
 | 📊 **[Tableau Dashboards](https://github.com/sleepyfox03)** | Data dashboards with **70% better** retrieval efficiency | Tableau · Data Analytics |
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sleepyfox03&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sleepyfox03&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -132,7 +210,7 @@ me.say_hi()
 - 📊 **MS Excel** Certification
 - 🌐 **HTML** Certification
 - 🚁 **DGCA Category 1** Rotorcraft Pilot License
-- 🎓 Organized **1st Cyber Security Awareness Camp** — trained 400+ students
+- 🎓 Organized **1st Cyber Security Awareness Camp** — trained **400+ students**
 - 🎭 Head of Technical Team — **Ek Bharat Shrestha Bharat** Cultural Exchange Program
 
 ---
@@ -154,7 +232,14 @@ me.say_hi()
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer&animation=fadeIn)
+<!-- ── FOOTER BANNER ── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1a4a7a,100:0d1b2a&height=130&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a3a3a3,50:d4d4d4,100:f0f0f0&height=130&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1a4a7a,100:0d1b2a&height=130&section=footer&animation=fadeIn" alt="footer" width="100%" />
+</picture>
 
 **"The best error message is the one that never shows up."**
 

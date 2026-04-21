@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=%20Satvik%20Chandel&fontSize=50&animation=fadeIn" width="100%" />
-</div>
-
 
 <div align="center">
 

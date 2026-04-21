@@ -7,8 +7,11 @@
 <div align="center">
 
 <!-- ── HEADER BANNER ── -->
-<img media="(prefers-color-scheme: light)" src="https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60">
-<img media="(prefers-color-scheme: dark)" src="https://capsule-render.vercel.app/api?type=blur&height=350&color=ee0000&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_IMAGE_URL](https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60)" />
+  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/sleepyfox03/sleepyfox03/main/empty.png](https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60)" />
+  <img src="YOUR_IMAGE_URL" alt="dark mode only image" />
+</picture>
 <!-- ── TYPING ANIMATION ── -->
 <picture>
   <source media="(prefers-color-scheme: dark)"

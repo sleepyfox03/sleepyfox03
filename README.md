@@ -7,7 +7,8 @@
 <div align="center">
 
 <!-- ── HEADER BANNER ── -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60">
+<img media="(prefers-color-scheme: light)" src="https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60">
+<img media="(prefers-color-scheme: dark)" src="https://capsule-render.vercel.app/api?type=blur&height=350&color=ee0000&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60">
 <!-- ── TYPING ANIMATION ── -->
 <picture>
   <source media="(prefers-color-scheme: dark)"

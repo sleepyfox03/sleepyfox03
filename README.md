@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvikchandel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik-chandel-/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satvikchandel3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sleepyfox03)
 ![Profile Views](https://komarev.com/ghpvc/?username=sleepyfox03&style=flat-square&color=f97316&label=views)
@@ -74,29 +74,9 @@ me.say_hi()
 
 <div align="center"><br/>
 
-**Languages**
+**Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=f97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=f97316)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=f97316)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=f97316)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=f97316)
-
-**Frameworks & Libraries**
-
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vue.js&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=ffffff)
-![Hibernate](https://img.shields.io/badge/Hibernate-111111?style=flat-square&logo=hibernate&logoColor=ffffff)
-
-**Data & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=f97316)
-![Tableau](https://img.shields.io/badge/Tableau-111111?style=flat-square&logo=tableau&logoColor=f97316)
-![PySpark](https://img.shields.io/badge/PySpark-111111?style=flat-square&logo=apachespark&logoColor=f97316)
-![Excel](https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoft-excel&logoColor=f97316)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f97316)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 </div>
 

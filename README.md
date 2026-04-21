@@ -7,13 +7,7 @@
 <div align="center">
 
 <!-- ── HEADER BANNER ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:111111,100:1a1a1a&height=200&section=header&text=Satvik%20Chandel&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&descColor=f97316&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,60:f0f4ff,100:dbeafe&height=200&section=header&text=Satvik%20Chandel&fontSize=58&fontColor=000000&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&descColor=1d4ed8&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:111111,100:1a1a1a&height=200&section=header&text=Satvik%20Chandel&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&descColor=f97316&animation=fadeIn" alt="header" width="100%" />
-</picture>
+https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60
 
 <!-- ── TYPING ANIMATION ── -->
 <picture>

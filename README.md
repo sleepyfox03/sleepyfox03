@@ -8,9 +8,11 @@
 
 <!-- ── HEADER BANNER ── -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[YOUR_IMAGE_URL](https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60)" />
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/sleepyfox03/sleepyfox03/main/empty.png](https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60)" />
-  <img src="YOUR_IMAGE_URL" alt="dark mode only image" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=blur&height=350&color=11&text=Satvik%20Chandel&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=ffa500&text=Satvik%20Chandel&fontColor=ffffff&textBg=false&desc=~%20just%20an%20engineer&descSize=0&descAlign=68&descAlignY=64&section=header&fontSize=60" alt="Satvik Chandel" width="100%" />
 </picture>
 <!-- ── TYPING ANIMATION ── -->
 <picture>

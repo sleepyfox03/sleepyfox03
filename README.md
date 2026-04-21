@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Satvik%20Chandel&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077b6&center=true&vCenter=true&width=600&lines=MS+Computer+Science+Student;Full+Stack+Developer+%26+Data+Analyst;NLP+%26+RAG+Researcher;DGCA+Certified+Drone+Pilot" alt="Typing SVG" />
-</div>
 
----
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Satvik%20Chandel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=~%20just%20an%20engineer&descAlignY=58&descSize=20&animation=fadeIn)
